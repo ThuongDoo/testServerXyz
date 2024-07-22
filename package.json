@@ -7,25 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bergusman/tradingview-udf-binance-node.git"
-  },
-  "author": "Vitaly Berg <bergusman@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bergusman/tradingview-udf-binance-node/issues"
-  },
-  "homepage": "https://github.com/bergusman/tradingview-udf-binance-node#readme",
-  "keywords": [
-    "ohlcv",
-    "tradingview",
-    "udf",
-    "crypto",
-    "exchange",
-    "binance",
-    "api"
-  ],
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
